@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chinonso Nwakudu</h1>
+<p align="center"><img src="animation.gif" width="35%"></p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%2338C2FF&size=40&height=50&width=800&lines=Heyyy!+I'm+Chinonso+Nwakudu;I'm+a+Cloud+Engineer;Welcome+to+my+profile+!">
+</p>
 <h3 align="center">A cloud sales engineer who is responsible for providing technical expertise and guidance to potential customers who are interested in purchasing cloud-based solutions; an aspiring cloud devops engineer with great team spirit and solid communication and problem solving skills.</h3>
 
 <p align="left"> <a href="https://twitter.com/nons0_n" target="blank"><img src="https://img.shields.io/twitter/follow/nons0_n?logo=twitter&style=for-the-badge" alt="nons0_n" /></a> </p>
