@@ -1,6 +1,6 @@
 👋 Hi, I’m Chinonso
 
-I’m a cloud-native / DevOps engineer interested in Kubernetes infrastructure,
+I’m a Cloud-native / DevOps engineer interested in Kubernetes infrastructure,
 CI/CD automation and reducing operational toil in open source projects.
 
 Focus areas
